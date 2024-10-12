@@ -7,7 +7,7 @@
 <br>
 
 # Nome do projeto - Decolando com Ciencia de Dados
-![um_mapa_do_tesouro.jpg](https://github.com/IolandaManzali/IolandaManzali/blob/main/um_mapa_do_tesouro.jpg)
+![Designer.jpeg](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/Designer.jpeg)
 
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -134,27 +134,11 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ### Pré-requisitos
 
-Acesso ao software Oracle SQL Developer Data Modeler.
+
 
 ### Acesso ao projeto
 
-Para acessar todo o conteudo do respositorio, incluindo arquivos de imagem utilize o comando abaixo pelo prompt Bash:
 
-  * git clone https://github.com/IolandaManzali/IolandaManzali.git
-
-Para baixar o arquivo desejado, digite o comando baixo no prompt do Bash ou curl:
-
-Bash 
-  * wget https://raw.githubusercontent.com/IolandaManzali/IolandaManzali/main/nome_do_arquivo.jpg
-
-curl
-  * url -O https://raw.githubusercontent.com/IolandaManzali/IolandaManzali/main/nome_do_arquivo.jpg
-
-Para visualizar o arquivo diretamente no browser
-
-  * abra o link abaixo em seu navegador https://github.com/IolandaManzali/IolandaManzali/blob/main/nome_do_arquivo_ou_repositorio
-    
-Obs: a criação do banco de dados ainda está em andamento. Disponibilizado somente a modelagem (logica e relacional)
 
 
 ## 🗃 Histórico de lançamentos
@@ -167,7 +151,7 @@ Obs: a criação do banco de dados ainda está em andamento. Disponibilizado som
     * 
 * 0.2.0 - XX/XX/2024
     * 
-* 0.1.0 - 04/10/2024
+* 0.1.0 - 12/10/2024
     *
 ## Referências
 
@@ -186,6 +170,11 @@ Obs: a criação do banco de dados ainda está em andamento. Disponibilizado som
 Shields.io: https://shields.io/
 
 Markdown Guide: https://www.markdownguide.org/
+
+## Desenvolvedores
+
+![Designer.jpeg](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/grupo_fiap.jpg)
+
 
 ## 📋 Licença
 
