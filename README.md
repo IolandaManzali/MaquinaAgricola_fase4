@@ -6,7 +6,7 @@
 
 <br>
 
-# Nome do projeto - Decolando com Ciencia de Dados
+# Nome do projeto - Decolando com Ciência de Dados
 ![Designer.jpeg](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/Designer.jpeg)
 
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
