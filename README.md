@@ -73,10 +73,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 * No RStudio carregar as bibliotecas dplyr e glue
 
+![Rstudiobibliotecas](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/Rstudiobibliotecas.jpg)
+
+
 * A partir do comando read.csv(file.choose()) carregar a planiha Base de dados agronegocio.csv para que as médias e gráficos sejam mensurados e visualizados da forma correta.  
 
 
-
+![filechoose](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/filechoose.jpg)
 
 
 
