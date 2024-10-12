@@ -6,7 +6,7 @@
 
 <br>
 
-# Nome do projeto - Um Mapa do Tesouro
+# Nome do projeto - Decolando com Ciencia de Dados
 ![um_mapa_do_tesouro.jpg](https://github.com/IolandaManzali/IolandaManzali/blob/main/um_mapa_do_tesouro.jpg)
 
 [![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
