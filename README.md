@@ -8,7 +8,7 @@
 
 # Nome do projeto - Construindo uma Máquina Agrícola
 
-![Designer.jpeg]()
+![Designer.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/maquinaagricola.jpeg)
 
 
 ## Nome do grupo - Grupo 07
