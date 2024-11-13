@@ -6,16 +6,12 @@
 
 <br>
 
-# Nome do projeto - Decolando com Ciência de Dados
-![Designer.jpeg](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/Designer.jpeg)
+# Nome do projeto - Construindo uma Máquina Agrícola
 
-[![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Designer.jpeg]()
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Markdown Badge](https://img.shields.io/badge/markdown-1f48fa?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Nome do grupo - Grupo 30
+## Nome do grupo - Grupo 07
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/hilmar-marques-358672161">Hilmar Gomes Marques da Silva</a>
@@ -32,20 +28,7 @@
 
 
 ## 📜 Descrição
-Esse repositório contem o modelo de dados para o projeto da atividade "DECOLANDO COM CIÊNCIA DE DADOS", proposta na segunda fase do curso de  Inteligencia Artificial da FIAP.
 
-* Foi solicitado a criacao de uma planilha em Excel com 30 linhas e 4 colunas contendo 4 tipos de variaveis:
-* ** variável quantitativa discreta;
-* **variável quantitativa contínua;
-* **variável qualitativa nominal;
-* **variável qualitativa ordinal.
- 
-* Análise exploratória de duas variaveis (uma qualitativa e uma quantitativa) em R:
-
-* ** Medidas de Tendência Central;
-* ** Medidas de Dispersão;
-* ** Medidas Separatrizes;
-* ** Análise gráfica.
 
 ## 📁 Estrutura de pastas
 
@@ -69,17 +52,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ### Pré-requisitos
 
-* Acesso ao Excel e ao RStudio
 
-* No RStudio carregar as bibliotecas dplyr e glue
-
-![Rstudiobibliotecas](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/Rstudiobibliotecas.jpg)
-
-
-* A partir do comando read.csv(file.choose()) carregar a planiha Base de dados agronegocio.csv para que as médias e gráficos sejam mensurados e visualizados da forma correta.  
-
-
-![filechoose](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/filechoose.jpg)
 
 
 
@@ -93,30 +66,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
     * 
 * 0.2.0 - XX/XX/2024
     * 
-* 0.1.0 - 12/10/2024
+* 0.1.0 - 13/11/2024
     *
   
-## Referências
-
-* CONAB (Companhia Nacional de Abastecimento)
-   https://www.conab.gov.br/
-
-* IBGE (Instituto Brasileiro de Geografia e Estatística)
-   https://www.ibge.gov.br/
-
-* MAPA (Ministério da Agricultura, Pecuária e Abastecimento)
-   https://www.gov.br/agricultura/pt-br
-
-* Embrapa (Empresa Brasileira de Pesquisa Agropecuária)
-   https://www.embrapa.br/
-
-* INPE (Instituto Nacional de Pesquisas Espaciais)
-   https://www.gov.br/inpe/pt-br
-
-* CNA BRASIL (Confederação da Agricultura e Pecuária do Brasil)
-   https://www.cnabrasil.org.br/
-
-
 ## Desenvolvedores
 
 ![Designer.jpeg](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/grupo_fiap.jpg)
