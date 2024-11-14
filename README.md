@@ -22,6 +22,56 @@ Fósforo e Potássio: Ambos foram representados por botões no sistema eletrôni
 
 ![Figura2.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/codigo2.jpeg)
 
+
+Projeto de Automação de Irrigação com ESP32 e Wokwi
+Este projeto utiliza um ESP32 para automatizar um sistema de irrigação, controlando uma bomba d'água com base na umidade do solo. Ele também inclui um sensor de luminosidade (LDR) para simular a leitura de pH e botões para controle manual da bomba. O projeto é simulado na plataforma Wokwi, que permite a prototipagem e visualização do circuito de forma online.
+
+Funcionalidades
+Monitoramento da umidade do solo: O sensor DHT22 mede a umidade do ar, que neste projeto representa a umidade do solo.
+Simulação de leitura de pH: Um sensor de luminosidade (LDR) simula a leitura do pH do solo.
+Controle automático da bomba d'água: A bomba d'água é ligada quando a umidade do solo (simulada pela umidade do ar) está abaixo de 40% e desligada quando está acima de 80%.
+Controle manual da bomba d'água: Botões P e K permitem ligar e desligar a bomba manualmente, independentemente da umidade do solo.
+Monitoramento via comunicação serial: Os valores da umidade, pH (simulado) e estado da bomba são enviados pela porta serial para monitoramento.
+Hardware
+ESP32: Placa microcontroladora com Wi-Fi e Bluetooth integrado, que processa os dados dos sensores e controla a bomba d'água.
+Sensor DHT22: Sensor de temperatura e umidade.
+Sensor de luminosidade (LDR): Simula o sensor de pH.
+Botão P: Representando sensor de nutrientes Fósforo (P). monitore a umidade do solo em tempo real e os níveis dos nutrientes. Ajustando a irrigação conforme o necessário
+Botão K: como sensor de nutrientes de Potássio (K). monitore a umidade do solo em tempo real e os níveis dos nutrientes. Ajustando a irrigação conforme o necessário
+
+Software
+Arduino IDE: Ambiente de desenvolvimento para programar o ESP32 (configurado para ESP32).
+Biblioteca DHT: Biblioteca para o sensor DHT22.
+Detalhes das conexões:
+DHT22:
+Pino de dados (sinal) conectado ao pino digital 15 do ESP32.
+Pino VCC conectado ao pino 5V do ESP32.
+Pino GND conectado ao pino GND do ESP32.
+Sensor de luminosidade (LDR):
+Um dos pinos do LDR conectado ao pino analógico 34 do ESP32.
+O outro pino do LDR conectado ao pino GND do ESP32.
+Pino VCC conectado ao pino 5V do ESP32.
+Botão P:
+Um pino do botão conectado ao pino digital 4 do ESP32.
+O outro pino do botão conectado ao pino GND do ESP32.
+Botão K:
+Um pino do botão conectado ao pino digital 5 do ESP32.
+O outro pino do botão conectado ao pino GND do ESP32.
+Relé:
+Pino de controle do relé conectado ao pino digital 23 do ESP32.
+Pino VCC conetado na da fonte externa
+Pino GND do Relé conectado no GND da placa
+Pino de saída do relé NC conectado no LED para mostrar que esta energizado.
+Pino CO do Relé conectado no 5v da placa  ESP32.
+bomba d’água representado por um relé.
+Led:
+Pino positivo (anodo) do LED conectado ao NO do Relé( bomba da agua).
+Pino negativo (catodo) do LED conectado ao pino GND do ESP32, através de um resistor de 220Ω para regular a tensão.
+O led representando quando a bomba está energizada.
+
+https://wokwi.com/projects/414296192887361537
+
+
 ## Nome do grupo - Grupo 07
 
 ## 👨‍🎓 Integrantes: 
