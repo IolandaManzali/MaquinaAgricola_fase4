@@ -17,9 +17,6 @@ Umidade: Código analisa o valor da variável umidade que é retirado do banco e
 Ph: Código analisa o valor da variável ph que é retirado do banco, classificando o ph em três níveis conforme o valor, sendo eles nível ácido, básico e neutro 
 Fósforo e Potássio: Ambos foram representados por botões no sistema eletrônico, e o botão informa se está ligado ou não, por isso o código analisa o valor que foi retirado do banco, retornando True, ou seja, não necessita de nem um tipo de correção e retornando False, ou seja, necessita de algum tipo de correção.
 
-![codigo1.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/codigo1.jpeg)
-![codigo2.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/codigo2.jpeg)
-
 ## Nome do grupo - Grupo 07
 
 ## 👨‍🎓 Integrantes: 
