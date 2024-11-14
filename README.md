@@ -23,6 +23,9 @@ Fósforo e Potássio: Ambos foram representados por botões no sistema eletrôni
 ![Figura2.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/codigo2.jpeg)
 
 
+
+![circuito.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/circuito.jpeg)
+
 Projeto de Automação de Irrigação com ESP32 e Wokwi
 Este projeto utiliza um ESP32 para automatizar um sistema de irrigação, controlando uma bomba d'água com base na umidade do solo. Ele também inclui um sensor de luminosidade (LDR) para simular a leitura de pH e botões para controle manual da bomba. O projeto é simulado na plataforma Wokwi, que permite a prototipagem e visualização do circuito de forma online.
 
