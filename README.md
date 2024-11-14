@@ -10,6 +10,13 @@
 
 ![Designer.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/maquinaagricola.jpeg)
 
+Este projeto é composto por um código em python que consulta os valores do sensores no banco de dados(SQL). Os sensores abordados são Ph, K, P e Umidade, os valores dos sensores são fictícios, visando fins acadêmicos. Objetivo do projeto é realizar uma integração entre o banco de dados e o código em python, assim como os valores fornecidos pelo monitor serial do simulador, para podermos simular um início de um sistema de irrigação.
+
+Funcionalidades
+Umidade: Código analisa o valor da variável umidade que é retirado do banco e informa ao usuário, se é necessário ligar a bomba ou não e por qual motivo, esta função foi elaborada por meio dos comando if, elif e else, que são comandos condicionais
+Ph: Código analisa o valor da variável ph que é retirado do banco, classificando o ph em três níveis conforme o valor, sendo eles nível ácido, básico e neutro 
+Fósforo e Potássio: Ambos foram representados por botões no sistema eletrônico, e o botão informa se está ligado ou não, por isso o código analisa o valor que foi retirado do banco, retornando True, ou seja, não necessita de nem um tipo de correção e retornando False, ou seja, necessita de algum tipo de correção.
+
 
 ## Nome do grupo - Grupo 07
 
