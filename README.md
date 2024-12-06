@@ -59,7 +59,7 @@ Atualizações no codigo c++:
    
  * troca de float por byte para leitura de umidade, com o objetivo de economizar memoria
 
-   ![Designer.jpeg]()
+   ![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/usodebyte.png)
 
  * codificação para parametrizar a visualização dos dados na tela LCD 
 
