@@ -31,9 +31,6 @@ Para a Fase 4 foi lançado o desafio de otimizar o projeto anterior adicionando 
 - <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chaviato</a>
 
 ## 📜 Descrição
-Sk-learn - falta
-streamlit - falta
-
 Modelo Wokwi versão 1.2
 
 <p align="justify">
