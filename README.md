@@ -15,10 +15,10 @@ Na Fase 3 (atividade: Construindo uma máquina agrícola) foi desenvolvido um pr
 Para a Fase 4 foi lançado o desafio de otimizar o projeto anterior adicionando novas funcionalidades e incorporando novas tecnologias ao adicionar uma interface gráfica mais amigável com o Scikit-learn e o Streamlit, além das melhorias no banco de dados e no próprio código, que foi revisado para ser mais eficiente e mais econômico (utiliza uma memoria menor) sem comprometer sua qualidade. Esse modelo se encontra disponível através do link abaixo: <https://wokwi.com/projects/416358079505406977> 
 
 
-## Nome do grupo - Grupo 07
+## Nome do grupo - Grupo 38
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/hilmar-marques-358672161">Hilmar Gomes Marques da Silva</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme dos Santos Barbosa</a>
 - <a href="https://www.linkedin.com/in/iolanda-helena-fabbrini-manzali-de-oliveira-14ab8ab0">Iolanda Helena Fabbrini Manzali de Oliveira</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Murilo Carone Nasser</a> 
 - <a href="https://www.linkedin.com/in/pedro-eduardo-soares-de-sousa-439552309">Pedro Eduardo Soares de Sousa</a> 
@@ -30,9 +30,31 @@ Para a Fase 4 foi lançado o desafio de otimizar o projeto anterior adicionando 
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chaviato</a>
 
-
 ## 📜 Descrição
-falta
+Sk-learn - falta
+streamlit - falta
+
+Modelo Wokwi versão 1.2
+
+<p align="justify">
+ 
+Este projeto implementa um sistema de irrigação automatizado utilizando um microcontrolador ESP32, um sensor de umidade DHT22, um sensor de luminosidade (LDR) para simular níveis de nutrientes e um display LCD para monitoramento. O sistema controla uma bomba d'água através de um relé, ligando-a quando a umidade do solo estiver abaixo de um limite e desligando-a quando a umidade estiver acima de outro limite.
+
+ Funcionalidades:
+ 
+ * Monitoramento da umidade do solo: Utiliza um sensor DHT22 para medir a umidade do solo.
+ * Simulação de níveis de nutrientes: Utiliza um LDR para simular a leitura de níveis de nutrientes no solo pH
+ * Controle automático da irrigação: Liga e desliga a bomba d'água automaticamente com base na umidade do solo.
+ * Interface de usuário: Exibe informações relevantes em um display LCD 20x4, incluindo umidade, níveis de nutrientes simulados, status da irrigação e temperatura.
+ * Comunicação serial: Envia dados do sistema para o monitor serial para depuração e monitoramento.
+ * Serial plotter : Exibe as informaçoes do sensor LRD (pH) do solo
+
+Atualizações:
+
+Na versao atualizada, o projeto conta com um banco de dados mais robusto do que o anterior e, alem de exibir os dados coletados em tempo real no display, apresenta interface grafica amigável para facilitar o monitoramento e compreensão dos dados analisados.
+</p>
+
+
 
 ## 📁 Estrutura de pastas
 
