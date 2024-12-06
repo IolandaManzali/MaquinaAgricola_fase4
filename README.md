@@ -63,8 +63,7 @@ Atualizações no codigo c++:
 
  * codificação para parametrizar a visualização dos dados na tela LCD 
 
-![Designer.jpeg]()
-
+![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/mostrandoLCD.png)
 
 
 </p>
