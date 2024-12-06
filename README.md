@@ -38,7 +38,7 @@ Modelo Wokwi versão 1.2
 
 <p align="justify">
  
-Este projeto implementa um sistema de irrigação automatizado utilizando um microcontrolador ESP32, um sensor de umidade DHT22, um sensor de luminosidade (LDR) para simular níveis de nutrientes e um display LCD para monitoramento. O sistema controla uma bomba d'água através de um relé, ligando-a quando a umidade do solo estiver abaixo de um limite e desligando-a quando a umidade estiver acima de outro limite.
+Este projeto implementa um sistema de irrigação automatizado utilizando um microcontrolador ESP32, um sensor de umidade DHT22, um sensor de luminosidade (LDR) para simular níveis de nutrientes e um display LCD para monitoramento. O sistema controla uma bomba d'água através de um relé, ligando-a quando a umidade do solo estiver abaixo de 40% e desligando-a quando a umidade ultrapassar 80%.
 
  Funcionalidades:
  
