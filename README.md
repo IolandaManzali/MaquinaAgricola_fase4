@@ -6,18 +6,14 @@
 
 <br>
 
-# Nome do projeto - Construindo uma Máquina Agrícola
+# Nome do projeto - Automação e inteligência na FarmTech Solutions
 
-![Designer.jpeg](https://github.com/IolandaManzali/Construindo_maquina_agicola_fase3fiap/blob/main/assets/maquinaagricola.jpeg)
+![Designer.jpeg](https://wokwi.com/projects/414296192887361537)
 
-Este projeto é composto por um código em python que consulta os valores do sensores no banco de dados(SQL). Os sensores abordados são Ph, K, P e Umidade, os valores dos sensores são fictícios, visando fins acadêmicos. Objetivo do projeto é realizar uma integração entre o banco de dados e o código em python, assim como os valores fornecidos pelo monitor serial do simulador, para podermos simular um início de um sistema de irrigação.
+Na Fase 3 (atividade: Construindo uma máquina agrícola) foi desenvolvido um projeto de um sistema de irrigação automatizado e inteligente para monitoramento da umidade, PK e  pH do solo em tempo real  e com ajuste de irrigação, utilizando as tecnologias Python, Oracle e a plataforma Wokwi. Utilizamos dados ficticios para mostrar o acionamento de  uma bomba de água (representada no modelo por um relé). Esse modelo se encontra disponivel atraves do link 
+<a href= "https://wokwi.com/projects/414296192887361537></a>
 
-Funcionalidades
-Umidade: Código analisa o valor da variável umidade que é retirado do banco e informa ao usuário, se é necessário ligar a bomba ou não e por qual motivo, esta função foi elaborada por meio dos comando if, elif e else, que são comandos condicionais
-Ph: Código analisa o valor da variável ph que é retirado do banco, classificando o ph em três níveis conforme o valor, sendo eles nível ácido, básico e neutro 
-Fósforo e Potássio: Ambos foram representados por botões no sistema eletrônico, e o botão informa se está ligado ou não, por isso o código analisa o valor que foi retirado do banco, retornando True, ou seja, não necessita de nem um tipo de correção e retornando False, ou seja, necessita de algum tipo de correção.
 
--------------------Projeto de Automação de Irrigação com ESP32 e Wokwi-------------------
 
 Este projeto utiliza um ESP32 para automatizar um sistema de irrigação, controlando uma bomba d'água com base na umidade do solo. Ele também inclui um sensor de luminosidade (LDR) para simular a leitura de pH e botões para controle manual da bomba. O projeto é simulado na plataforma Wokwi, que permite a prototipagem e visualização do circuito de forma online.
 
