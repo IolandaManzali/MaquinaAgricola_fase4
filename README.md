@@ -55,7 +55,7 @@ Atualizações no codigo c++:
 
  * inclusao do codigo para utilização do LCD
 
-   ![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/CAP1FASE4.png)
+   ![Designer.jpeg]([https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/CAP1FASE4.png)
 
  * troca de float por byte para leitura de umidade, com o objetivo de economizar memoria
 
