@@ -73,22 +73,15 @@ A leitura grafica do serial plotter mostra a relação entre a amplitude da curv
 ![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/sp4.png)
 
 
-
 </p>
-
-
-
-
 
 ## 📁 Estrutura de pastas
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
+- - <b>assets</b>: imagens utilizadas no projeto
 
-- <b>assets</b>: imagens utilizadas no projeto
-
-- <b>config</b>: arquivos de configuração para definir parâmetros e ajustes do projeto.
+- <b>config</b>: arquivos de parâmetros e ajustes do projeto.
 
 - <b>document</b>: documentos complementares do projeto
 
@@ -96,7 +89,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>src</b>: código fonte principal
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+- <b>README.md</b>: FIAP FASE4. 
 
 ## 🔧 Como executar o código
  falta 
