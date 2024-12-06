@@ -70,7 +70,7 @@ Integração do Serial Plotter:
 
 A leitura grafica do serial plotter mostra a relação entre a amplitude da curva e a intensidade luminosa: quanto maior a intensidade da luz menor é a amplitude da curva.
 
-![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/sp4.png)
+![Designer.jpeg](https://github.com/IolandaManzali/MaquinaAgricola_fase4/blob/main/assets/assetsfase4/sp4.png)
 
 
 </p>
