@@ -18,7 +18,7 @@ Para a Fase 4 foi lançado o desafio de otimizar o projeto anterior adicionando 
 ## Nome do grupo - Grupo 38
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme dos Santos Barbosa</a>
+- <a href="https://www.linkedin.com/in/guilherme-dos-santos-barbosa-58397b176">Guilherme dos Santos Barbosa</a>
 - <a href="https://www.linkedin.com/in/iolanda-helena-fabbrini-manzali-de-oliveira-14ab8ab0">Iolanda Helena Fabbrini Manzali de Oliveira</a>
 - <a href="https://www.linkedin.com/company/inova-fusca">Murilo Carone Nasser</a> 
 - <a href="https://www.linkedin.com/in/pedro-eduardo-soares-de-sousa-439552309">Pedro Eduardo Soares de Sousa</a> 
@@ -54,7 +54,9 @@ Atualizações:
 Na versao atualizada, o projeto conta com um banco de dados mais robusto do que o anterior e, alem de exibir os dados coletados em tempo real no display, apresenta interface grafica amigável para facilitar o monitoramento e compreensão dos dados analisados.
 </p>
 
+Integração do Serial Plotter: faça a demonstração do uso do Serial Plotter usando prints da sua tela do Wokwi para monitoramento de variáveis e poste no REDME, e explique os prints inseridos;
 
+f) Documentação e atualização no GitHub: atualize de forma geral o repositório GitHub com a documentação do README explicando as melhorias implementadas, além das imagens e/ou prints;
 
 ## 📁 Estrutura de pastas
 
