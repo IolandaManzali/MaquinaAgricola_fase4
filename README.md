@@ -68,9 +68,15 @@ Atualizações no codigo c++:
 
 Integração do Serial Plotter:
 
+A leitura grafica do serial plotter mostra a relação entre a amplitude da curva e a intensidade luminosa: quanto maior a intensidade da luz menor é a amplitude da curva.
+
+![Designer.jpeg]()
+
+![Designer.jpeg]()
+
 </p>
 
- faça a demonstração do uso do Serial Plotter usando prints da sua tela do Wokwi para monitoramento de variáveis e poste no REDME, e explique os prints inseridos;
+
 
 
 
