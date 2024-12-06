@@ -38,7 +38,9 @@ Modelo Wokwi versão 1.2
 
 <p align="justify">
  
-Este projeto implementa um sistema de irrigação automatizado utilizando um microcontrolador ESP32, um sensor de umidade DHT22, um sensor de luminosidade (LDR) para simular níveis de nutrientes e um display LCD para monitoramento. O sistema controla uma bomba d'água através de um relé, ligando-a quando a umidade do solo estiver abaixo de 40% e desligando-a quando a umidade ultrapassar 80%.
+Este projeto implementa um sistema de irrigação automatizado utilizando um microcontrolador ESP32, um sensor de umidade DHT22, um sensor de luminosidade (LDR) para simular níveis de nutrientes e um display LCD para monitoramento. O sistema controla uma bomba d'água através de um relé, ligando-a quando a umidade do solo estiver abaixo de 40% e desligando-a quando a umidade ultrapassar 80%. 
+Na versao atualizada, o projeto conta com um banco de dados mais robusto do que o anterior e, alem de exibir os dados coletados em tempo real no display, apresenta interface grafica amigável para facilitar o monitoramento e compreensão dos dados analisados.
+
 
  Funcionalidades:
  
@@ -49,14 +51,23 @@ Este projeto implementa um sistema de irrigação automatizado utilizando um mic
  * Comunicação serial: Envia dados do sistema para o monitor serial para depuração e monitoramento.
  * Serial plotter : Exibe as informaçoes do sensor LRD (pH) do solo
 
-Atualizações:
+Atualizações no codigo c++:
 
-Na versao atualizada, o projeto conta com um banco de dados mais robusto do que o anterior e, alem de exibir os dados coletados em tempo real no display, apresenta interface grafica amigável para facilitar o monitoramento e compreensão dos dados analisados.
+ * inclusao do codigo para utilização do LCD
+
+ * troca de float por byte para leitura de umidade, com o objetivo de economizar memoria
+
+ * codificação para parametrizar a visualização dos dados na tela LCD 
+
+
+
+
+
 </p>
 
 Integração do Serial Plotter: faça a demonstração do uso do Serial Plotter usando prints da sua tela do Wokwi para monitoramento de variáveis e poste no REDME, e explique os prints inseridos;
 
-f) Documentação e atualização no GitHub: atualize de forma geral o repositório GitHub com a documentação do README explicando as melhorias implementadas, além das imagens e/ou prints;
+
 
 ## 📁 Estrutura de pastas
 
